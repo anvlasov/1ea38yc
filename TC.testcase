@@ -1,18 +1,2 @@
-[
-    {
-        "id": "212db13b627b71618b3ad63d2a6a006226324743f2d8b210be2e1f64bb7434d6",
-        "name": "TC",
-        "phrases": [
-            {
-                "id": "8fe087d1-5bfb-76af-204c-28a25447f8f7",
-                "parentId": "",
-                "request": {
-                    "text": "Hello"
-                },
-                "response": "[{\"text\":\"hello\",\"rLoc\":{\"file\":\"E11\",\"line\":3},\"reqId\":\"1643296804301/1\",\"success\":true,\"textInput\":true}]",
-                "meta": "{\"pLoc\":{\"file\":\"E11\",\"line\":2}}",
-                "visualProperties": "{\"childIndex\":0}"
-            }
-        ]
-    }
-]
+/* Please do not make any changes directly in the file, only through our Platform, otherwise it won't work */
+[{"id":"8fe087d1-5bfb-76af-204c-28a25447f8f7","parentId":"","request":{"text":"Hello"},"response":"[{\"text\":\"hello\",\"rLoc\":{\"file\":\"E11\",\"line\":3},\"reqId\":\"1643296804301/1\",\"success\":true,\"textInput\":true}]","meta":"{\"pLoc\":{\"file\":\"E11\",\"line\":2}}","visualProperties":"{\"childIndex\":0}"}]
